@@ -6,3 +6,4 @@
 2021-09-28: I learned about CASE commands in MySQL
 2021-09-29: I learned this quiz is hard
 2021-10-04: I learned that input(" ") is how you prompt a user to respond to the code. Practicing control structures today (if loops, while loops, for loops).
+2021-10-12: I learned that there is a lot to learn about Matplotlib that isn't on matplotlib.pyplot.plot 
